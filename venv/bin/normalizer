@@ -1,4 +1,4 @@
-#!/home/chyngyz/Documents/http_lec/venv/bin/python3
+#!/home/tima/Projects/crud/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
